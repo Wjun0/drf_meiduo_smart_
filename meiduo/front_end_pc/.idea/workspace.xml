@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7bda37cb-bfd8-460d-aed8-c2d7e933e75f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods_judge.html" beforeDir="false" afterPath="$PROJECT_DIR$/goods_judge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/QQ-weixin.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/QQ-weixin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adv01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/adv01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adv02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/adv02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bar_code.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bar_code.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clock.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/clock.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/clock.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/down.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/edit.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/edit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/find-password.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/find-password.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods001.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods002.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods003.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods004.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods005.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods006.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods007.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods008.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods/goods009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods/goods009.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/goods_450.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/goods_450.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons02.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/icons02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/interval_line.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/interval_line.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/left_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/left_bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/login_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/login_banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo02.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pay_icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/pay_icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pic_code.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pic_code.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/register_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/register_banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shine.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/shine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/shop_cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/shop_cart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slide01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slide02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slide03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slide04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slide04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/stars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/success.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/success.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/time_count_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/time_count_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/axios-0.18.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/axios-0.18.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slide.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/slide.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/order_success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/place_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/place_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_center_info.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_center_info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_center_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_center_order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_center_pass.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_center_pass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_center_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/user_center_site.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/celery_tasks/sms/yuntongxun/CCPRestSDK.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/celery_tasks/sms/yuntongxun/CCPRestSDK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/celery_tasks/sms/yuntongxun/xmltojson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/celery_tasks/sms/yuntongxun/xmltojson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/apps/cart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/apps/cart/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/libs/yuntongxun/CCPRestSDK.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/libs/yuntongxun/CCPRestSDK.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/libs/yuntongxun/xmltojson.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/libs/yuntongxun/xmltojson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/meiduo_mall/settings/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/scripts/import_areas_data_to_db.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/scripts/import_areas_data_to_db.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/scripts/import_goods_data_to_db.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/scripts/import_goods_data_to_db.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../meiduo_mall/scripts/regenerate_static_sku_detail_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/../meiduo_mall/scripts/regenerate_static_sku_detail_html.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="595" />
+    <option name="width" value="1118" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bda37cb-bfd8-460d-aed8-c2d7e933e75f" name="Default Changelist" comment="" />
+      <created>1597042271568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597042271568</updated>
+      <workItem from="1597042273890" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
